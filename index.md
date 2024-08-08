@@ -14,3 +14,7 @@ library(dplyr)
 new_data <- mtcars |>
             dplyr::filter(mpg > 20)
 ```
+
+- [ ] Create a list
+- [x] Check things off
+- [ ] Celebrate
